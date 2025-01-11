@@ -1,32 +1,30 @@
-                        DuLeCord cool license
-## Preamble
+            DuLeCord Non-Commercial License v1.0 (DNC-1.0)
+Preamble
 
 The purpose of this license is to ensure that DuLeCord (DuLeCord) remains free software while prohibiting commercial use. All other rights and conditions are as defined in the GNU General Public License version 3 (GPL-3.0).
+1. Definitions
 
-## 1. Definitions
+    Commercial Use: Any use of the software or derivative works that is primarily intended for or directed toward commercial advantage or monetary compensation, including but not limited to selling, licensing, or otherwise exploiting the software for profit.
 
-- **Commercial Use**: Any use of the software or derivative works that is primarily intended for or directed toward commercial advantage or monetary compensation, including but not limited to selling, licensing, or otherwise exploiting the software for profit.
-  
-- **Non-Commercial Use**: All uses of the software except for Commercial Use. This includes personal, educational, and non-profit use.
+    Non-Commercial Use: All uses of the software except for Commercial Use. This includes personal, educational, and non-profit use.
 
-## 2. License Grant
+2. License Grant
 
 The code in this repository is licensed under the terms of the GNU General Public License version 3 (GPL-3.0) with the following additional restrictions:
 
-- **Commercial Use**: You may **not** use, copy, modify, merge, publish, distribute, sublicense, or sell copies of this software or derivative works for commercial purposes.
+    Commercial Use: You may not use, copy, modify, merge, publish, distribute, sublicense, or sell copies of this software or derivative works for commercial purposes.
 
-- **Non-Commercial Use**: You may use, copy, modify, and distribute the software for non-commercial purposes, subject to the conditions and terms of the GPL-3.0.
+    Non-Commercial Use: You may use, copy, modify, and distribute the software for non-commercial purposes, subject to the conditions and terms of the GPL-3.0.
 
-## 3. GPL-3.0 Terms
+3. GPL-3.0 Terms
 
-Except as provided in Section 2 of this license, the terms and conditions of the GNU General Public License version 3 (GPL-3.0) apply to this software. You can find the full text of the GPL-3.0 at: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html).
+Except as provided in Section 2 of this license, the terms and conditions of the GNU General Public License version 3 (GPL-3.0) apply to this software. You can find the full text of the GPL-3.0 at: https://www.gnu.org/licenses/gpl-3.0.html.
+4. Additional Terms
 
-## 4. Additional Terms
+    Distribution of Derivative Works: You may distribute derivative works of the software under the terms of the GPL-3.0, provided that the commercial restrictions described in Section 2 are respected.
 
-- **Distribution of Derivative Works**: You may distribute derivative works of the software under the terms of the GPL-3.0, provided that the commercial restrictions described in Section 2 are respected.
+    Modifications: If you modify the software and distribute the modified version, you must indicate the changes you have made, and you must still ensure that the modified software is not used for commercial purposes.
 
-- **Modifications**: If you modify the software and distribute the modified version, you must indicate the changes you have made, and you must still ensure that the modified software is not used for commercial purposes.
-
-## 5. No Warranty
+5. No Warranty
 
 This software is provided "as-is," without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
